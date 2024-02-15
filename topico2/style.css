@@ -1,0 +1,63 @@
+body {
+    background-color: #0F0F1C;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: #1A1A2E;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2 {
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+label {
+    color: #FFF;
+    margin-bottom: 10px;
+    display: block;
+}
+
+input {
+    width: 60%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    background-color: #2C2C54;
+    color: #FFF;
+}
+
+button {
+    background-color: #6D214F;
+    color: #FFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #8D4071;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.addnome {
+    background-color: #2C2C54;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
